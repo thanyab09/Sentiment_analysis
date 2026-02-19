@@ -57,7 +57,3 @@ This comparison demonstrates the strengths of traditional lexicon-based methods 
   - `torch`
 
 ---
-
-## Author
-Created by **Thanya**  
-Third-year ML engineer & researcher, exploring NLP and transformer-based models.
