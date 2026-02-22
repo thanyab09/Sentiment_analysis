@@ -24,7 +24,7 @@ The sentiment analysis experiments were conducted using the **Amazon Fine Food R
   making it a rich resource for testing both lexicon-based and transformer-based models.  
 - **Usage:**  
   - **VADER** was applied directly to the raw text to generate sentiment scores.  
-  - **RoBERTa** was fine-tuned on the dataset to classify sentiment with higher accuracy.  
+  - **RoBERTa**, a pretrained model from Hugging Face, was fine-tuned on the dataset to classify sentiment with higher accuracy.  
 
 > Note: The dataset is not included in this repository due to size and licensing restrictions.  
 > Please download it directly from the Kaggle source linked above.
